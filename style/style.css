@@ -161,6 +161,7 @@ body {
   margin-top: 28px;
   border: 2px solid;
   padding: 25px;
+    margin-bottom: 25px;
 }
 .box-home-row-one {
   display: flex;
